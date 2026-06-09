@@ -2,7 +2,7 @@
 //  SmartChefViewModel.swift
 //  SmartChef
 //
-//  Created by 114-2Student03 on 2026/6/2.
+//  Created by patrick on 2026/6/2.
 //
 
 import Foundation
