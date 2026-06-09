@@ -1,0 +1,13 @@
+//
+//  Development.xcconfig
+//  SmartChef
+//
+//  Created by 114-2Student03 on 2026/6/2.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+
+GEMINI_API_KEY = AQ.Ab8RN6IK4sQAUnBJncHV7WAyf-1MNVl1Ox5eA7CF-tk4J-GUbQ
+UNSPLASH_ACCESS_KEY = uAkur7tqariwNcB-oHhatJNveCDIq2ThrQtKAL6FOMU
